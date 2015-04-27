@@ -5,3 +5,4 @@ authors = ["Hao Wu <hwu@intellisurvey.com>"]
 
 [dependencies]
 serde="*"
+serde_macros="*"
